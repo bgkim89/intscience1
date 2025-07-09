@@ -1,4 +1,3 @@
 streamlit
 python-docx
 pandas
-pip install streamlit python-docx
